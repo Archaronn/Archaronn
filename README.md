@@ -1,5 +1,5 @@
 
-[![masterhead](https://www.canva.com/design/DAFoKPTNxVs/RW_8E9jQRT50Pj-KJzGnAQ/edit)
+[![masterhead](https://c0.wallpaperflare.com/preview/681/313/143/scam-hacker-security-virus-thumbnail.jpg)
 <h1 align="center">Hi 👋, I'm Archaron</h1>
 <h3 align="center">I'm a cyber security student in Turkey</h3>
 
