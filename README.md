@@ -1,4 +1,4 @@
-[![masterhead](https://images.squarespace-cdn.com/content/v1/56b11aa122482ef10d74f229/1555007858506-GBXWQALM0C58WIVX3NE5/banner_docker.gif?format=2500w)
+[![masterhead](https://i.imgur.com/nBcM0Fh.gif)
 <h1 align="center">Hi 👋, I'm Archaron</h1>
 <h3 align="center">I'm a cyber security student in Turkey</h3>
 
